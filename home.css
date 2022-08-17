@@ -1,0 +1,479 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+
+  .animated-button {
+    position: relative;
+    display: inline-block;
+    padding: 20px 40px;
+    font-size: 20px;
+    background-color: #0050ac;
+    background-size: 60px 40px;
+    border: solid 1px #555;
+    color: white;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    transition: all ease 0.3s;
+  }
+
+  .animated-button::after {
+    position: absolute;
+    top: 30%;
+    right: 0.6em;
+    content: ">>";
+    transition: all ease 0.3s;
+    opacity: 0;
+  }
+
+  .animated-button:hover {
+    padding: 20px 60px 20px 20px;
+  }
+
+  .animated-button-text {
+    color:white;
+}
+
+  .animated-button:hover::after {
+    right: 1.2em;
+    opacity: 1;
+  }
+
+  .animated-button-bd {
+    position: relative;
+    display: inline-block;
+    padding: 20px 40px;
+    font-size: 20px;
+    background-color: #0050ac;
+    background-size: 60px 40px;
+    border: solid 1px #555;
+    color: white;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    transition: all ease 0.3s;
+  }
+
+  .animated-button-bd::after {
+    position: absolute;
+    top: 30%;
+    right: 0.6em;
+    content: ">>";
+    transition: all ease 0.3s;
+    opacity: 0;
+  }
+
+  .animated-button-bd:hover {
+    padding: 20px 60px 20px 20px;
+  }
+
+  .animated-button-bd:hover::after {
+    right: 1.2em;
+    opacity: 1;
+  }
+
+  .v22_19 {
+    width: 100%;
+    height: 763px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v22_17 {
+    width: 100%;
+    height: 763px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v18_6 {
+    width: 100%;
+    height: 763px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v18_5 {
+    width: 100%;
+    height: 763px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_3 {
+    width: 100%;
+    height: 763px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_4 {
+    width: 100%;
+    height: 183px;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_134 {
+    width: 634px;
+    position: absolute;
+    top: 75px;
+    left: 321px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    color: white;
+    font-size: 66px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v18_2 {
+    width: 100%;
+    height: 688px;
+    opacity: 1;
+    position: absolute;
+    top: 185px;
+    left: 0px;
+  }
+  .v22_16 {
+    width: 993px;
+    height: 379px;
+    background-color: rgb(255, 255, 255);
+    opacity: 1;
+    position: absolute;
+    top: 255px;
+    left: 102px;
+    overflow: hidden;
+  }
+  .v22_13 {
+    width: 288px;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 288px;
+    left: 455px;
+    overflow: hidden;
+  }
+  .v22_4 {
+    width: 288px;
+    height: 315px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(28,54,57,1);
+    overflow: hidden;
+  }
+  .v22_9 {
+    width: 164px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 101px;
+    left: 62px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v22_11 {
+    width: 322px;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 288px;
+    left: 111px;
+    overflow: hidden;
+  }
+  .v22_14 {
+    width: 322px;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v22_10 {
+    width: 288px;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 17px;
+    overflow: hidden;
+  }
+  .v22_3 {
+    width: 288px;
+    height: 315px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(28,53,57,1);
+    overflow: hidden;
+  }
+  .v22_5 {
+    width: 322px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 120px;
+    left: 0px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v22_12 {
+    width: 288px;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 288px;
+    left: 781px;
+    overflow: hidden;
+  }
+  .v22_8 {
+    width: 288px;
+    height: 315px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(28,54,57,1);
+    overflow: hidden;
+  }
+  .v22_6 {
+    width: 208px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 118px;
+    left: 55px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 46px;
+    opacity: 1;
+    text-align: left;
+  }
+  
+  
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+
+  position: relative;
+}
+
+nav a {
+  color: white;
+  font-family: Advent Pro;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+nav a:hover {
+  color: #000;
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #066D7B;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+  background: #1e2b38;
+  ;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Baloo 2', cursive;
+}
+.banner-text {
+	width: 100%;
+	position: absolute;
+    font-family: Advent Pro;
+      font-family: Normal;
+      font-size: 20px;
+	z-index: 1;
+}
+.banner-text ul {
+	height: 50px;
+    font-family: Advent Pro;
+      font-family: Normal;
+      font-size: 20px;
+	float: right;
+}
+.banner-text ul li {
+	display: inline-block;
+	padding: 40px 15px;
+	text-transform: uppercase;
+	color: #fff;
+    font-family: Advent Pro;
+      font-family: Normal;
+      font-size: 20px;
+}
+.banner-text ul li:hover {
+	cursor: pointer;
+}
+.banner-text h2 {
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+    font-family: Advent Pro;
+      font-family: Normal;
+      font-size: 20px;
+	margin-top: 20%;
+}
+
+.banner-text ul li a {
+    color:white;
+}
+.animation-area {
+	background: linear-gradient(to left, #0039b4, #078b9c);
+  width: 100%;
+	height: 100vh;
+}
+.box-area {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.box-area li {
+	position: absolute;
+	display: block;
+	list-style: none;
+	width: 25px;
+	height: 25px;
+	background: rgba(255, 255, 255, 0.2);
+	animation: animate 20s linear infinite;
+	bottom: -150px;
+}
+.box-area li:nth-child(1) {
+	left: 86%;
+	width: 80px;
+	height: 80px;
+	animation-delay: 0s;
+}
+.box-area li:nth-child(2) {
+	left: 12%;
+	width: 30px;
+	height: 30px;
+	animation-delay: 1.5s;
+	animation-duration: 10s;
+}
+.box-area li:nth-child(3) {
+	left: 70%;
+	width: 100px;
+	height: 100px;
+	animation-delay: 5.5s;
+}
+.box-area li:nth-child(4) {
+	left: 42%;
+	width: 150px;
+	height: 150px;
+	animation-delay: 0s;
+	animation-duration: 15s;
+}
+.box-area li:nth-child(5) {
+	left: 65%;
+	width: 40px;
+	height: 40px;
+	animation-delay: 0s;
+}
+.box-area li:nth-child(6) {
+	left: 15%;
+	width: 110px;
+	height: 110px;
+	animation-delay: 3.5s;
+}
+@keyframes animate {
+	0% {
+		transform: translateY(0) rotate(0deg);
+		opacity: 1;
+	}
+	100% {
+		transform: translateY(-800px) rotate(360deg);
+		opacity: 0;
+	}
+}
+

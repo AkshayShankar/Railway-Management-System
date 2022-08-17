@@ -1,0 +1,524 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+ 
+  .v25_2 {
+    width: 100%;
+    height: 1700px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_3 {
+    width: 100%;
+    height: 873px;
+    background: url("../images/v25_3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_4 {
+    width: 100%;
+    height: 873px;
+    background: url("../images/v25_4.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_5 {
+    width: 100%;
+    height: 873px;
+    background: url("../images/v25_5.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_6 {
+    width: 100%;
+    height: 873px;
+    background: rgba(255,244,244,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_7 {
+    width: 100%;
+    height: 183px;
+    background: rgba(0,105,120,0.8500000238418579);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_8 {
+    width: 647px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 55px;
+    margin-left: 100px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 66px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v25_9 {
+    width: 647px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 55px;
+    left: 700px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 66px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v25_56 {
+    width: 655px;
+    height: 543px;
+    background: url("../images/v25_56.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 248px;
+    left: 311px;
+    overflow: hidden;
+  }
+  .v25_24 {
+    width: 52px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 4px;
+    left: 99px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v25_30 {
+    width: 40px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 156px;
+    left: 115px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v25_32 {
+    width: 41px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 155px;
+    left: 515px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v25_25 {
+    width: 250px;
+    height: 31px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v25_31 {
+    width: 150px;
+    height: 31px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    position: absolute;
+    top: 180px;
+    left: 60px;
+    overflow: hidden;
+  }
+  .v25_33 {
+    width: 150px;
+    height: 31px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    position: absolute;
+    top: 179px;
+    left: 460px;
+    overflow: hidden;
+  }
+  .v25_29 {
+    width: 250px;
+    height: 31px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    position: absolute;
+    top: 107px;
+    left: 210px;
+    overflow: hidden;
+  }
+  .v25_27 {
+    width: 250px;
+    height: 31px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    position: absolute;
+    top: 23px;
+    left: 405px;
+    overflow: hidden;
+  }
+  .v25_26 {
+    width: 86px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 0px;
+    left: 487px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v25_28 {
+    width: 154px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 83px;
+    left: 246px;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v38_2 {
+    width: 150px;
+    height: 50px;
+    opacity: 1;
+    position: relative;
+    left: 563px;
+    overflow: hidden;
+  }
+  .animated-button {
+    position: relative;
+    padding: 20px 40px;
+    font-size: 20px;
+    background-color: #00b3b4;
+    background-size: 60px 40px;
+    border: solid 1px #555;
+    color: white;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    transition: all ease 0.3s;
+  }
+  
+  .animated-button::after {
+    position: absolute;
+    top: 30%;
+    right: 0.6em;
+    content: ">>";
+    transition: all ease 0.3s;
+    opacity: 0;
+  }
+  
+  .animated-button:hover {
+    padding: 20px 60px 20px 20px;
+  }
+  
+  .animated-button:hover::after {
+    right: 1.2em;
+    opacity: 1;
+  }
+  
+  @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+  *{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+  }
+  body{
+    font-family: 'Noto Sans TC', sans-serif;
+    height: 100vh;
+    background: linear-gradient(75deg,#2980b9,#8e44ad);
+  }
+  .click, .popup_box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+  }
+  .click{
+    background: #00b3b4;
+    color: white;
+    font-size: 22px;
+    font-family: Advent Pro;
+    font-weight: normal;
+    padding: 10px 15px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  .popup_box{
+    width: 400px;
+    background: #f2f2f2;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    border: 1px solid #b3b3b3;
+    box-shadow: 0px 5px 10px rgba(0,0,0,.2);
+    z-index: 9999;
+    display: none;
+  }
+  .popup_box i{
+    font-size: 60px;
+    color: #eb9447;
+    border: 5px solid #eb9447;
+    padding: 20px 40px;
+    border-radius: 50%;
+    margin: -10px 0 20px 0;
+  }
+  .popup_box h1{
+    font-size: 30px;
+    color: #1b2631;
+    margin-bottom: 5px;
+  }
+  .popup_box label{
+    font-size: 23px;
+    color: #404040;
+  }
+  .popup_box .btns{
+    margin: 40px 0 0 0;
+  }
+  .btns .btn1, .btns .btn2{
+    background: #999999;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #808080;
+    padding: 10px 13px;
+  }
+  .btns .btn2{
+    margin-left: 20px;
+    background: #000;
+    border: 1px solid #000;
+  }
+  .btns .btn1:hover{
+    transition: .5s;
+    background: #8c8c8c;
+  }
+  .btns .btn2:hover{
+    transition: .5s;
+    background: black;
+  }
+  
+  
+  nav {
+    float: right;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 23px;
+  
+    position: relative;
+  }
+  
+  nav a {
+    color: white;
+    font-family: Advent Pro;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 20px;
+  }
+  
+  nav a:hover {
+    color: #000;
+  }
+  
+  nav a::before {
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #066D7B;
+  
+    position: absolute;
+    top: 0;
+    width: 0%;
+  
+    transition: all ease-in-out 250ms;
+  }
+  
+  nav a:hover::before {
+    width: 100%;
+  }
+  
+  .container {
+      width: 80%;
+      margin: 0 auto;
+  }
+  
+  header {
+    background: #1e2b38;
+    ;
+  }
+  
+  header::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  
+  
+  
+  
+  .animated-button {
+    position: relative;
+    padding: 20px 40px;
+    font-size: 20px;
+    background-color: #00b3b4;
+    background-size: 60px 40px;
+    border: solid 1px #555;
+    color: white;
+    font-family: Advent Pro;
+    font-weight: Regular;
+    transition: all ease 0.3s;
+  }
+  
+  .animated-button::after {
+    position: absolute;
+    top: 30%;
+    right: 0.6em;
+    content: ">>";
+    transition: all ease 0.3s;
+    opacity: 0;
+  }
+  
+  .animated-button:hover {
+    padding: 20px 60px 20px 20px;
+  }
+  
+  .animated-button:hover::after {
+    right: 1.2em;
+    opacity: 1;
+  }
+  
+  @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+  *{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+  }
+  body{
+    font-family: 'Noto Sans TC', sans-serif;
+    height: 100vh;
+    background: linear-gradient(75deg,#2980b9,#8e44ad);
+  }
+  .click, .popup_box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+  }
+  .click{
+    background: #00b3b4;
+    color: white;
+    font-size: 22px;
+    font-family: Advent Pro;
+    font-weight: normal;
+    padding: 10px 15px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  .popup_box{
+    width: 400px;
+    background: #f2f2f2;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    border: 1px solid #b3b3b3;
+    box-shadow: 0px 5px 10px rgba(0,0,0,.2);
+    z-index: 9999;
+    display: none;
+  }
+  .popup_box i{
+    font-size: 60px;
+    color: #eb9447;
+    border: 5px solid #eb9447;
+    padding: 20px 40px;
+    border-radius: 50%;
+    margin: -10px 0 20px 0;
+  }
+  .popup_box h1{
+    font-size: 30px;
+    color: #1b2631;
+    margin-bottom: 5px;
+  }
+  .popup_box label{
+    font-size: 23px;
+    color: #404040;
+  }
+  .popup_box .btns{
+    margin: 40px 0 0 0;
+  }
+  .btns .btn1, .btns .btn2{
+    background: #00b3b4;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #808080;
+    padding: 10px 13px;
+  }
+  .btns .btn2{
+    margin-left: 20px;
+    background: #000;
+    border: 1px solid #000;
+  }
+  .btns .btn1:hover{
+    transition: .5s;
+    background: #8c8c8c;
+  }
+  .btns .btn2:hover{
+    transition: .5s;
+    background: black;
+  }
+  
+  
+  
